@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-10-16T03:10:57.079314522Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-10-16T13:55:15.521476142Z",
     "templateType": "trip_d",
     "propertyId": "c01e8cd8-fb1b-4e71-b8e4-72f4541eb0b2",
     "homepageId": "7385a79b-3262-499d-a8f9-d6c1c2621420"
@@ -72,6 +72,47 @@
       "securityDeposit": 0
     },
     "facilities": [
+      {
+        "id": "01a144fe-0696-7ea0-b0d6-b4b61208e4bb",
+        "name": "오션뷰",
+        "description": "",
+        "usageGuide": "",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a144fe-1205-7726-bf17-219ccbcaf730",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a144fe-0696-7ea0-b0d6-b4b61208e4bb/main/1792158862631-giq3heyvph.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a144fe-1147-7dc2-86f0-a694e4708ae5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a144fe-0696-7ea0-b0d6-b4b61208e4bb/main/1792158862641-8s9o6bbdia.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a144fe-10f3-7a31-94de-ebb6bac707ab",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a144fe-0696-7ea0-b0d6-b4b61208e4bb/main/1792158862642-mssexdaif2.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a144fe-117a-7058-8310-5fd02a5aabed",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a144fe-0696-7ea0-b0d6-b4b61208e4bb/main/1792158862638-5tngvv9b4y.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
       {
         "id": "e1b30f03-f79a-426b-bb43-60d68f193f44",
         "name": "개별수영장",
@@ -1067,7 +1108,7 @@
         {
           "thumbnail": [
             {
-              "id": "f7d58bc6-109d-46c9-a8b5-cb698b154b29",
+              "id": "01a142b1-cc28-70ef-aa6c-5f7f291c11bb",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/16/RYFGTH5sSBbK.jpg",
               "sortOrder": 1,
               "description": "",
@@ -1077,7 +1118,7 @@
           ],
           "interior": [
             {
-              "id": "319416ef-fbd5-48ee-b381-f2acd245ecfc",
+              "id": "01a142b1-cc28-710c-a7c8-4103ab2acf6d",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/16/kFXTyIrSH1sP.jpg",
               "sortOrder": 2,
               "description": "",
@@ -1085,7 +1126,7 @@
               "blockId": null
             },
             {
-              "id": "f042549d-8995-4935-93d9-5a997670ffed",
+              "id": "01a142b1-cc28-714a-ba07-a5fcecadc261",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/16/QJCcdy5jRUx8.jpg",
               "sortOrder": 3,
               "description": "",
@@ -1093,7 +1134,7 @@
               "blockId": null
             },
             {
-              "id": "5ce40f38-5109-4faa-a006-cca6002d0f25",
+              "id": "01a142b1-cc28-7170-b095-61dfc01e3f75",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/16/BgLFVwWiemjx.jpg",
               "sortOrder": 4,
               "description": "",
@@ -1101,7 +1142,7 @@
               "blockId": null
             },
             {
-              "id": "e504bb0c-c177-45c9-ac63-ac8d976fc0a3",
+              "id": "01a142b1-cc28-7181-b8bd-cf55f39cdf8c",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/16/QlBvu8bwYp4y.jpg",
               "sortOrder": 5,
               "description": "",
@@ -1109,7 +1150,7 @@
               "blockId": null
             },
             {
-              "id": "91426aba-11f9-4041-b5ec-8ee94fc10414",
+              "id": "01a142b1-cc28-71bb-85d6-0cbecf11d1e7",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/16/Kpqv9FG7geDL.jpg",
               "sortOrder": 6,
               "description": "",
@@ -1117,7 +1158,7 @@
               "blockId": null
             },
             {
-              "id": "ce14f021-e059-4ef7-8b4b-c2d66cf667af",
+              "id": "01a142b1-cc28-71fa-860c-0833627586bc",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/16/GolyYTw5XguQ.jpg",
               "sortOrder": 7,
               "description": "",
@@ -1125,7 +1166,7 @@
               "blockId": null
             },
             {
-              "id": "16ff8b11-11da-45b8-aa5a-08186003aca2",
+              "id": "01a142b1-cc28-720c-84b7-ef6e13729c80",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/16/xnQhmaK1DHew.jpg",
               "sortOrder": 8,
               "description": "",
@@ -1133,7 +1174,7 @@
               "blockId": null
             },
             {
-              "id": "f55ee432-be29-4d89-8ff9-0e769c1fd018",
+              "id": "01a142b1-cc28-7231-96a5-1deb2671ee5b",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/16/y6lHs5ztvuhU.jpg",
               "sortOrder": 9,
               "description": "",
@@ -1141,7 +1182,7 @@
               "blockId": null
             },
             {
-              "id": "b0d42257-9a5f-4566-a6a7-f1de3f865e73",
+              "id": "01a142b1-cc28-7271-98a3-d5fc4fe80190",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/16/IOgPbqZzm3VR.jpg",
               "sortOrder": 10,
               "description": "",
@@ -1149,7 +1190,7 @@
               "blockId": null
             },
             {
-              "id": "57f4d381-061a-4769-a2c6-fc0fe7b6189e",
+              "id": "01a142b1-cc28-7295-88c5-b159714bc8e0",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/16/DSRFemhwQj5k.jpg",
               "sortOrder": 11,
               "description": "",
@@ -1157,7 +1198,7 @@
               "blockId": null
             },
             {
-              "id": "ce4d7d6f-30b9-4d4d-bafa-8146369bc2c8",
+              "id": "01a142b1-cc28-72a7-b9b3-7b148c322630",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/16/ETns0FipwR71.jpg",
               "sortOrder": 12,
               "description": "",
@@ -1822,7 +1863,28 @@
             ]
           }
         ],
-        "facility": [ ],
+        "facility": [
+          {
+            "id": "01a144fe-0696-7ea0-b0d6-b4b61208e4bb",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": "전 객실에서 남해바다의 일출과 일몰을 감상하며\n소중한 사람과 힐링의 시간을 보내보세요.",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
+                }
+              }
+            ]
+          }
+        ],
         "reservation": {
           "sections": [
             {
